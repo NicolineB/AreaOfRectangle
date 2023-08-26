@@ -1,0 +1,9 @@
+{
+  "python.pythonPath": "C:\\Users\\brolo\\anaconda3\\envs\\<your-conda-env>\\python.exe",
+  "python.terminal.activateEnvironment": true,
+  "terminal.integrated.shell.windows": "C:\\Windows\\System32\\cmd.exe",
+  "[python]": {
+    "editor.defaultFormatter": "ms-python.autopep8"
+  },
+  "python.formatting.provider": "none"
+}
